@@ -18,19 +18,21 @@ This webinar aims to:
 
 ### **Agenda**
 
+## Agenda
+
 | Time          | Event                                      | Presenter/Moderator                                             |
 |---------------|--------------------------------------------|-----------------------------------------------------------------|
 | **14:00-14:15** | Opening Remarks                          | Lara Badre, ILO Department of Statistics                       |
 | **Session 1** | Moderator: Ng Bin Shen Lucas, Singapore Ministry of Manpower | |
-| **14:15-14:35** | Brazil: Automatic Brazilian Classification of Occupations (CBO) Updating | Enádio da Silva Barbosa, Brazilian Ministry of Labor           |
-| **14:35-14:55** | Mexico: AI as a Complementary Methodology for Coding Tasks | Jose Alejandro Ruiz Sanchez and Jael Pérez Sánchez, INEGI      |
-| **14:55-15:15** | Singapore: Adaptable Framework to Automate the Classification of Occupation Codes | Ng Bin Shen Lucas, Singapore                                   |
+| **14:15-14:35** | Brazil: Automatic Brazilian Classification of Occupations (CBO) Updating ([Presentation Slides](link-to-brazil-slides)) | Enádio da Silva Barbosa, Brazilian Ministry of Labor           |
+| **14:35-14:55** | Mexico: AI as a Complementary Methodology for Coding Tasks ([Presentation Slides](link-to-mexico-slides)) | Jose Alejandro Ruiz Sanchez and Jael Pérez Sánchez, INEGI      |
+| **14:55-15:15** | Singapore: Adaptable Framework to Automate the Classification of Occupation Codes ([Presentation Slides](link-to-singapore-slides)) | Ng Bin Shen Lucas, Singapore                                   |
 | **15:15-15:35** | Discussions                              |                                                                 |
 | **15:35-15:45** | Break                                    |                                                                 |
 | **Session 2** | Moderator: Shutong Ding, ILO Department of Statistics | |
-| **15:45-16:05** | Ecuador: Coding Occupations in the Population and Housing Census | Diana Méndez and Victor Espinoza, INEC                         |
-| **16:05-16:25** | USA: Autocoding in the Occupational Employment and Wage Statistics Program | Samuel Fincher, U.S. Bureau of Labor Statistics               |
-| **16:25-16:45** | ILO: Cross-Mapping Job Titles and Indexes to ISCO-08 | Shutong Ding, ILO                                              |
+| **15:45-16:05** | Ecuador: Coding Occupations in the Population and Housing Census ([Presentation Slides](link-to-ecuador-slides)) | Diana Méndez and Victor Espinoza, INEC                         |
+| **16:05-16:25** | USA: Autocoding in the Occupational Employment and Wage Statistics Program ([Presentation Slides](link-to-usa-slides)) | Samuel Fincher, U.S. Bureau of Labor Statistics               |
+| **16:25-16:45** | ILO: Cross-Mapping Job Titles and Indexes to ISCO-08 ([Presentation Slides](link-to-ilo-slides)) | Shutong Ding, ILO                                              |
 | **16:45-17:05** | Discussions                              |                                                                 |
 | **17:05-17:15** | Closing Remarks                          | Lara Badre, ILO Department of Statistics                       |
 
