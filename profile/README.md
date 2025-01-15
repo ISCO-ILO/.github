@@ -18,8 +18,6 @@ This webinar aims to:
 
 ### **Agenda**
 
-## Agenda
-
 | Time          | Event                                      | Presenter/Moderator                                             |
 |---------------|--------------------------------------------|-----------------------------------------------------------------|
 | **14:00-14:15** | Opening Remarks                          | Lara Badre, ILO Department of Statistics                       |
