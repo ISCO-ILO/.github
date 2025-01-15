@@ -72,11 +72,16 @@ To facilitate extensive analysis of recently updated NOCs across different langu
 ---
 
 ## **Resources**
-- [Presentation Slides](#) (Coming Soon)
+- [Presentation Slides](#)
 - [Related Links](https://ilostat.ilo.org/methods/concepts-and-definitions/classification-occupation/)    
 
 ---
 
+## **Future Events**
+- Coming soon.
+
+
+---
 ## **Contact Information**
 - **Lara Badre**: [badre@ilo.org](mailto:badre@ilo.org)  
 - **Shutong Ding**: [ding@ilo.org](mailto:ding@ilo.org)  
