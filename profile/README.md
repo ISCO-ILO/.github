@@ -83,5 +83,5 @@ To facilitate extensive analysis of recently updated NOCs across different langu
 
 ---
 ## **Contact Information**
-- **Lara Badre**: [badre@ilo.org](mailto:badre@ilo.org)  
-- **Shutong Ding**: [ding@ilo.org](mailto:ding@ilo.org)  
+- **Lara Badre**: [badre@ilo.org](mailto:badre@ilo.org), Department of Statistics  
+- **Shutong Ding**: [ding@ilo.org](mailto:ding@ilo.org), Department of Statistics
