@@ -72,7 +72,7 @@ To facilitate extensive analysis of recently updated NOCs across different langu
 ---
 
 ## **Resources**
-- [Presentation Slides]((https://github.com/ISCO-ILO/Documentations))
+- [Presentation Slides](https://github.com/ISCO-ILO/Documentations)
 - [Related Links](https://ilostat.ilo.org/methods/concepts-and-definitions/classification-occupation/)    
 
 ---
